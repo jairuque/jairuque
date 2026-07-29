@@ -104,42 +104,36 @@
            alt="Bash logo" width="40" height="40" loading="lazy">
       </picture>
     </a>
-
     <!-- Bootstrap — full-color, visible in both themes -->
     <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="Bootstrap">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
            alt="Bootstrap logo" width="40" height="40" loading="lazy">
     </a>
-
     <!-- CSS3 — full-color -->
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="CSS3">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
            alt="CSS3 logo" width="40" height="40" loading="lazy">
     </a>
-
     <!-- Figma — multi-color, visible in both themes -->
     <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="Figma">
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
            alt="Figma logo" width="40" height="40" loading="lazy">
     </a>
-
     <!-- Git — switched to devicon colored version (orange/red), visible in both -->
     <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="Git">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"
            alt="Git logo" width="40" height="40" loading="lazy">
     </a>
-
     <!-- HTML5 — full-color -->
     <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="HTML5">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
            alt="HTML5 logo" width="40" height="40" loading="lazy">
     </a>
-
     <!-- Hugo — dark wordmark, uses <picture> for white variant in dark mode -->
     <a href="https://gohugo.io/" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="Hugo">
@@ -150,7 +144,6 @@
            alt="Hugo logo" width="40" height="40" loading="lazy">
       </picture>
     </a>
-
     <!-- Illustrator — devicon -original has dark bg + orange text, visible in both -->
     <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="Adobe Illustrator">
@@ -158,21 +151,18 @@
            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-original.svg"
            alt="Adobe Illustrator logo" width="40" height="40" loading="lazy">
     </a>
-
     <!-- JavaScript — full-color yellow, visible in both -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="JavaScript">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
            alt="JavaScript logo" width="40" height="40" loading="lazy">
     </a>
-
     <!-- Jekyll — switched to devicon colored version (red), visible in both -->
     <a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="Jekyll">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jekyll/jekyll-original-wordmark.svg"
            alt="Jekyll logo" width="40" height="40" loading="lazy">
     </a>
-
     <!-- Linux — black penguin, uses <picture> for white variant in dark mode -->
     <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="Linux">
@@ -183,7 +173,6 @@
            alt="Linux logo" width="40" height="40" loading="lazy">
       </picture>
     </a>
-
     <!-- MariaDB — dark seal, uses <picture> for white variant in dark mode -->
     <a href="https://mariadb.org/" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="MariaDB">
@@ -194,21 +183,18 @@
            alt="MariaDB logo" width="40" height="40" loading="lazy">
       </picture>
     </a>
-
     <!-- Microsoft SQL Server — red logo, visible in both -->
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="Microsoft SQL Server">
       <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
            alt="Microsoft SQL Server logo" width="40" height="40" loading="lazy">
     </a>
-
     <!-- MySQL — blue dolphin, visible in both -->
     <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="MySQL">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
            alt="MySQL logo" width="40" height="40" loading="lazy">
     </a>
-
     <!-- Photoshop — devicon -original has dark bg + blue text, visible in both -->
     <a href="https://www.photoshop.com/en" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="Adobe Photoshop">
@@ -216,28 +202,24 @@
            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg"
            alt="Adobe Photoshop logo" width="40" height="40" loading="lazy">
     </a>
-
     <!-- PHP — purple, visible in both -->
     <a href="https://www.php.net" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="PHP">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
            alt="PHP logo" width="40" height="40" loading="lazy">
     </a>
-
     <!-- Python — blue/yellow, visible in both -->
     <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="Python">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
            alt="Python logo" width="40" height="40" loading="lazy">
     </a>
-
     <!-- SQLite — blue, visible in both -->
     <a href="https://www.sqlite.org/" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="SQLite">
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
            alt="SQLite logo" width="40" height="40" loading="lazy">
     </a>
-
     <!-- Adobe XD — purple, visible in both -->
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="Adobe XD">
@@ -283,7 +265,6 @@
         loading="lazy"
       >
     </picture>
-
     <!-- Overall Stats -->
     <picture>
       <source
