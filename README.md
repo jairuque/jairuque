@@ -115,10 +115,9 @@
     <!-- Bootstrap — full-color, visible in both themes -->
     <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="Bootstrap">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-           alt="Bootstrap logo" width="40" height="40" loading="lazy">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"  alt="Bootstrap logo" width="40" height="40" loading="lazy" />
     </a>
-    <!-- Figma — multi-color, visible in both themes -->
+        <!-- Figma — multi-color, visible in both themes -->
     <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="Figma">
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
