@@ -97,20 +97,17 @@
     <!-- HTML5 — full-color -->
     <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="HTML5">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-           alt="HTML5 logo" width="40" height="40" loading="lazy">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5 logo" width="40" height="40" loading="lazy"/>
     </a>
     <!-- CSS3 — full-color -->
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="CSS3">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-           alt="CSS3 logo" width="40" height="40" loading="lazy">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3 logo" width="40" height="40" loading="lazy"/>
     </a>
     <!-- JavaScript — full-color yellow, visible in both -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="JavaScript">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-           alt="JavaScript logo" width="40" height="40" loading="lazy">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="40" height="40" loading="lazy"/>
     </a>
     <!-- Bootstrap — full-color, visible in both themes -->
     <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer"
@@ -120,45 +117,32 @@
         <!-- Figma — multi-color, visible in both themes -->
     <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="Figma">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-           alt="Figma logo" width="40" height="40" loading="lazy">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma logo" width="40" height="40" loading="lazy"/>
     </a>
     <!-- Git — switched to devicon colored version (orange/red), visible in both -->
     <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="Git">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"
-           alt="Git logo" width="40" height="40" loading="lazy">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="Git logo" width="40" height="40" loading="lazy"/>
     </a>
     <!-- Hugo — dark wordmark, uses <picture> for white variant in dark mode -->
     <a href="https://gohugo.io/" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="Hugo">
-      <picture>
-        <source srcset="https://cdn.simpleicons.org/hugo/fff" media="(prefers-color-scheme: dark)">
-        <img
-           src="https://api.iconify.design/logos-hugo.svg"
-           alt="Hugo logo" width="40" height="40" loading="lazy">
-      </picture>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original.svg" alt="Hugo logo" width="40" height="40" loading="lazy"/>
     </a>
     <!-- PHP — purple, visible in both -->
     <a href="https://www.php.net" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="PHP">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-           alt="PHP logo" width="40" height="40" loading="lazy">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP logo" width="40" height="40" loading="lazy" />
     </a>
     <!-- MySQL — blue dolphin, visible in both -->
     <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="MySQL">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-           alt="MySQL logo" width="40" height="40" loading="lazy">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL logo" width="40" height="40" loading="lazy" />
     </a>
     <!-- Linux — black penguin, uses <picture> for white variant in dark mode -->
     <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="Linux">
-      <picture>
-        <source srcset="https://cdn.simpleicons.org/linux/fff" media="(prefers-color-scheme: dark)">
-        <img
-           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-           alt="Linux logo" width="40" height="40" loading="lazy">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux logo" width="40" height="40" loading="lazy" />
       </picture>
     </a>
   </div>
