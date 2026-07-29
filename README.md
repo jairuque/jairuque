@@ -94,7 +94,6 @@
   <h2 id="heading-tools" style="font-size:clamp(1.25rem,2.5vw+.25rem,1.625rem);font-weight:600">Languages and Tools</h2>
 
   <div style="display:flex;flex-wrap:wrap;gap:.75rem;align-items:center;padding:.5rem 0" role="list" aria-label="Technology icons">
-
     <!-- Bash — dark icon, uses <picture> for white variant in dark mode -->
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="Bash">
@@ -272,7 +271,6 @@
 <section aria-labelledby="heading-stats">
   <h2 id="heading-stats" style="font-size:clamp(1.25rem,2.5vw+.25rem,1.625rem);font-weight:600">GitHub Stats</h2>
   <div style="display:flex;flex-wrap:wrap;gap:1rem;align-items:flex-start;margin-top:1.5rem">
-
     <!-- Top Languages -->
     <picture>
       <source
