@@ -93,19 +93,19 @@
 
   <div style="display:flex;flex-wrap:wrap;gap:.75rem;align-items:center;padding:.5rem 0" role="list" aria-label="Technology icons">
     <!-- HTML5 — full-color -->
-    <a class="tmp-mr-3" href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer"
+    <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="HTML5">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5 logo" width="40" height="40" loading="lazy"/>
+       <img class="tmp-mr-3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5 logo" width="40" height="40" loading="lazy"/>
     </a>
     <!-- CSS3 — full-color -->
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="CSS3">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3 logo" width="40" height="40" loading="lazy"/>
+       <img class="tmp-mr-3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3 logo" width="40" height="40" loading="lazy"/>
     </a>
     <!-- JavaScript — full-color yellow, visible in both -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="JavaScript">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="40" height="40" loading="lazy"/>
+       <img class="tmp-mr-3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="40" height="40" loading="lazy"/>
     </a>
     <!-- Bootstrap — full-color, visible in both themes -->
     <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer"
