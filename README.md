@@ -70,13 +70,13 @@
   <h2 id="heading-connect" style="font-size:clamp(1.25rem,2.5vw+.25rem,1.625rem);font-weight:600">Let's connect</h2>
   <p>
     <a href="https://github.com/jairuque" target="_blank" rel="noopener noreferrer" aria-label="GitHub profile">
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="Git logo" fill="#fafafa" width="32" height="32" loading="lazy"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
            alt="GitHub logo" width="32" height="32">
     </a>
     &nbsp;
     <a href="https://linkedin.com/in/jairuque" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn profile">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-           alt="LinkedIn logo" width="32" height="32">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn logo" width="32" height="32"/>
     </a>
     &nbsp;
     <a href="mailto:jairuque@outlook.com" aria-label="Send email to jairuque">
