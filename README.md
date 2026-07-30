@@ -93,12 +93,11 @@
 
   <div style="display:flex;flex-wrap:wrap;gap:.75rem;align-items:center;padding:.5rem 0" role="list" aria-label="Technology icons">
     <!-- HTML5 — full-color -->
-    <div style="margin-right: 12px;">
+    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
     <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="HTML5">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5 logo" width="40" height="40" loading="lazy"/>
     </a>
-</div>
     <!-- CSS3 — full-color -->
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="CSS3">
@@ -145,6 +144,7 @@
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux logo" width="40" height="40" loading="lazy" />
       </picture>
     </a>
+    </div>
   </div>
 </section>
 
