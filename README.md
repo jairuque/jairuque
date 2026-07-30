@@ -71,8 +71,6 @@
   <p>
     <a href="https://github.com/jairuque" target="_blank" rel="noopener noreferrer" aria-label="GitHub profile">
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="Git logo" fill="#fafafa" width="32" height="32" loading="lazy"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-           alt="GitHub logo" width="32" height="32">
     </a>
     &nbsp;
     <a href="https://linkedin.com/in/jairuque" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn profile">
@@ -95,10 +93,12 @@
 
   <div style="display:flex;flex-wrap:wrap;gap:.75rem;align-items:center;padding:.5rem 0" role="list" aria-label="Technology icons">
     <!-- HTML5 — full-color -->
+    <div style="margin-right: 12px;">
     <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="HTML5">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5 logo" width="40" height="40" loading="lazy"/>
     </a>
+</div>
     <!-- CSS3 — full-color -->
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="CSS3">
