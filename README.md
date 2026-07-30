@@ -39,12 +39,12 @@
 
 <p>
   <a href="https://github.com/jairuque" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
          alt="GitHub logo" width="32" height="32">
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/jairuque" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
          alt="LinkedIn logo" width="32" height="32">
   </a>
   &nbsp;
@@ -58,19 +58,18 @@
 
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer" aria-label="HTML5">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-         alt="HTML5 logo" width="40" height="40" loading="lazy">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5 logo" width="40" height="40" loading="lazy" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer" aria-label="CSS3">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
          alt="CSS3 logo" width="40" height="40" loading="lazy">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" aria-label="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
          alt="JavaScript logo" width="40" height="40" loading="lazy">
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer" aria-label="Bootstrap">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg"
          alt="Bootstrap logo" width="40" height="40" loading="lazy">
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer" aria-label="Figma">
@@ -78,8 +77,7 @@
          alt="Figma logo" width="40" height="40" loading="lazy">
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" aria-label="Git">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"
-         alt="Git logo" width="40" height="40" loading="lazy">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git logo" width="40" height="40" loading="lazy" />
   </a>
   <a href="https://gohugo.io/" target="_blank" rel="noopener noreferrer" aria-label="Hugo">
     <picture>
@@ -89,17 +87,17 @@
     </picture>
   </a>
   <a href="https://www.php.net" target="_blank" rel="noopener noreferrer" aria-label="PHP">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
          alt="PHP logo" width="40" height="40" loading="lazy">
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer" aria-label="MySQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
          alt="MySQL logo" width="40" height="40" loading="lazy">
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer" aria-label="Linux">
     <picture>
       <source srcset="https://cdn.simpleicons.org/linux/fff" media="(prefers-color-scheme: dark)">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
            alt="Linux logo" width="40" height="40" loading="lazy">
     </picture>
   </a>
