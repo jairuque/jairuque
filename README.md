@@ -93,8 +93,7 @@
 
   <div style="display:flex;flex-wrap:wrap;gap:.75rem;align-items:center;padding:.5rem 0" role="list" aria-label="Technology icons">
     <!-- HTML5 — full-color -->
-    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer"
+    <a class="tmp-mr-3" href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="HTML5">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5 logo" width="40" height="40" loading="lazy"/>
     </a>
@@ -139,12 +138,11 @@
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL logo" width="40" height="40" loading="lazy" />
     </a>
     <!-- Linux — black penguin, uses <picture> for white variant in dark mode -->
-    <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"
+    <a class="tmp-ml-3" href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"
        style="display:inline-flex;transition:transform .2s ease;border-radius:6px" role="listitem" aria-label="Linux">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux logo" width="40" height="40" loading="lazy" />
       </picture>
     </a>
-    </div>
   </div>
 </section>
 
